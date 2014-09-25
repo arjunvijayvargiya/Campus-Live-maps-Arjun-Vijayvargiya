@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Campus-Live</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name="aboutcampuslive">CampusLive is an application that lets you navigate around campus with whole bunch of information </string>
+
+</resources>
